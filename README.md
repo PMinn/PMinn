@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href="https://instagram.com/alan_0131"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>
+  <a href="https://instagram.com/alan_0131"><img height="30" src="https://github.com/AlanPan0131/AlanPan0131/blob/main/image/instagram.png?raw=true"></a>
 </p>
 
 ### Hi there 👋
