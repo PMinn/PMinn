@@ -18,8 +18,18 @@ Here are some ideas to get you started:
 
 
 ### A passionate fullstack developer from Taiwan
+<br>
 
 ---
+<h3 align="left">My 3D Art:</h3>
+<p align="left">
+<a href="https://instagram.com/min.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="min.developer" height="30" width="40" /></a>
+</p>
+
+<br>
+
+---
+
 <br>
 
 - 🌱 I’m currently learning **Python**
