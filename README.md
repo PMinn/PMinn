@@ -1,8 +1,8 @@
 ### Hi there 👋
-### I'm Alan
+### I'm P'Min
 
 <!--
-**AlanPan0131/AlanPan0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PMinn/PMinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
